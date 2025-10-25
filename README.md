@@ -7,4 +7,5 @@ This project uses a LogisticRegression Model to predict bank customer churn, it 
 # Run this notebook
 this notebook can be easily run as it only requires one input (you have to upload your kaggle API json file when prompted)
 For this logistic regression model i have used the Bank Customer Churn Dataset from kaggle.
-dataset can be downloaded from this link- https://www.kaggle.com/datasets/gauravtopre/bank-customer-churn-dataset
+dataset can be downloaded from the below link.
+https://www.kaggle.com/datasets/gauravtopre/bank-customer-churn-dataset
